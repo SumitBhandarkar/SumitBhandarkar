@@ -3,8 +3,8 @@
 
 <h2>Educational Qualifications</h2>
     <ul>
-        <li>🎓 Bachelor in Computer Application at Gondwana University 219</li>
-        <li>Concentration:  Web Development , Data Analysis</li>
+        <li>🎓 Bachelor in Computer Application at Gondwana University 2019</li>
+        <li> Concentration:  Web Development , Data Analysis</li>
    </ul>    
    
 <h2>Technical Skills</h2>
@@ -18,8 +18,8 @@
 - 
 <h2>Contact Information</h2>
     <ul>
-        <li><strong>Phone &nbsp;&nbsp;&nbsp;:</strong> +91-7499622905</li>
-        <li><strong>Email &nbsp;&nbsp;&nbsp;&nbsp;:</strong> <a href="mailto:sumitbhandarkar000@gmail.com">sumitbhandarkar000@gmail.com</a></li>
+        <li><strong>Phone &nbsp;&nbsp;&nbsp;&nbsp:</strong> +91-7499622905</li>
+        <li><strong>Email &nbsp;&nbsp;&nbsp;&nbsp;&nbsp:</strong> <a href="mailto:sumitbhandarkar000@gmail.com">sumitbhandarkar000@gmail.com</a></li>
         <li><strong>LinkedIn &nbsp;:</strong> <a href="https://www.linkedin.com/in/sumit-bhandarkar-24a452193/">Sumit Bhandarkar</a></li>
         <li><strong>Website  &nbsp;&nbsp;:</strong> <a href="http://yourwebsite.com">Sumit Bhandarkar Website</a></li>
         <li><strong>Resume &nbsp;&nbsp;:</strong> <a href="http://yourresumelink.com">Sumit Bhandarkar Resume</a></li>
