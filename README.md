@@ -13,3 +13,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+<h2>Contact Information</h2>
+    <ul>
+        <li><strong>Phone:</strong> +91-7499622905</li>
+        <li><strong>Email:</strong> <a href="mailto:sumitbhandarkar000@gmail.com">sumitbhandarkar000@gmail.com</a></li>
+        <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/sumit-bhandarkar-24a452193/">Sumit Bhandarkar</a></li>
+        <li><strong>Website:</strong> <a href="http://yourwebsite.com">Sumit Bhandarkar Website</a></li>
+        <li><strong>Resume:</strong> <a href="http://yourresumelink.com">Sumit Bhandarkar Resume</a></li>
+    </ul>
