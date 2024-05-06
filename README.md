@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 <h2>Contact Information</h2>
     <ul>
         <li><strong>Phone &nbsp; &nbsp; &nbsp;:</strong> +91-7499622905</li>
-        <li><strong>Email &nbsp; &nbsp; &nbsp; :</strong> <a href="mailto:sumitbhandarkar000@gmail.com">sumitbhandarkar000@gmail.com</a></li>
+        <li><strong>Email &nbsp; &nbsp; &nbsp; &nbsp; :</strong> <a href="mailto:sumitbhandarkar000@gmail.com">sumitbhandarkar000@gmail.com</a></li>
         <li><strong>LinkedIn &nbsp; :</strong> <a href="https://www.linkedin.com/in/sumit-bhandarkar-24a452193/">Sumit Bhandarkar</a></li>
-        <li><strong>Website  &nbsp;  :</strong> <a href="http://yourwebsite.com">Sumit Bhandarkar Website</a></li>
+        <li><strong>Website  &nbsp;&nbsp;  :</strong> <a href="http://yourwebsite.com">Sumit Bhandarkar Website</a></li>
         <li><strong>Resume &nbsp;  &nbsp;  :</strong> <a href="http://yourresumelink.com">Sumit Bhandarkar Resume</a></li>
     </ul>
